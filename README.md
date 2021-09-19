@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kuaranir, I'm from Saint Petersburg.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Analysis, Pandas, Scikit-Learn, statistics.
-- 💞️ I’m looking for a Junior Data Scientist position.
+- 👋 Hi, I’m Alexander, I'm from Saint Petersburg.
+- 👀🌱 I’m interested in Data Science.
+
 
 <!---
 Kuaranir/Kuaranir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
