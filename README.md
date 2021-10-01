@@ -1,4 +1,4 @@
-- 👋 Hi I’m Alexander, I'm from Saint Petersburg.
+- 👋 ✌️ Hi I’m Alexander, I'm from Saint Petersburg.
 - 👀🌱 I’m interested in Data Science.
 
 
