@@ -1,5 +1,4 @@
 - 👋 ✌️ Hi I’m Alexander.
-- 👀🌱 I’m interested in Data Science.
 
 
 <!---
