@@ -1,4 +1,4 @@
-- 👋 ✌️ Hi I’m Alexander.
+- 👋 ✌️ Hi, I’m Alexander.
 
 
 <!---
