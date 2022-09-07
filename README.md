@@ -1,5 +1,4 @@
-- 👋 ✌️ Hi, I’m Alexander.
-
+- 👋 ✌️ Hi
 
 <!---
 Kuaranir/Kuaranir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
