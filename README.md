@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: <a href="[#](https://t.me/wizard_c)"><img alt="OBS Studio" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat"></a>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 💻 My tools and knowledges:
+<br />
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
