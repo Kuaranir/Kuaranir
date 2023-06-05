@@ -35,5 +35,6 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yandex/yandex-ar21.svg"></code>
 
 </p>
-
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=Kuaranir&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+</div>
