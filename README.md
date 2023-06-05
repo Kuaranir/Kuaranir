@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p><img width="35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
----
----
+
 🧰💻<h6>My tools and knowledges:</h6>
 <!-- to draw horizontal line -->
 <p>
