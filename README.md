@@ -35,6 +35,6 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yandex/yandex-ar21.svg"></code>
 
 </p>
-##
+
 
 
