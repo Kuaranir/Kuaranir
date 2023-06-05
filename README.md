@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img width="35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-🧰💻<h6>My tools and knowledges (at least in process of studying that :slightly_smiling_face:) :</h6>
+🧰💻<h6>My tools and knowledges (at least in the process of studying that :slightly_smiling_face:) :</h6>
 <!-- to draw horizontal line -->
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
