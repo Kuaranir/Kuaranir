@@ -17,31 +17,30 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  
-<br />
-  
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  
+<br />
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 
 <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-    <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+    
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+
 <br />
-    <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<br />
-<br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-    <code><img width="10%" src="ссылка"></code>
-    <code><img width="10%" src="ссылка"></code>
 </p>
 <br />
 
