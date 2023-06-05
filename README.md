@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/yandex/yandex-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yandex/yandex-ar21.svg"></code>
 
 </p>
 
