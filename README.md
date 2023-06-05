@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   
 <br />
-  
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
