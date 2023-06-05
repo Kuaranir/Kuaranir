@@ -36,7 +36,4 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<div align="center">
-   <img src="[![](https://visitcount.itsvg.in/api?id=Kuaranir&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)">
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=Kuaranir&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
