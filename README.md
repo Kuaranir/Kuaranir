@@ -3,7 +3,7 @@ Kuaranir/Kuaranir is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 ✌️ Hello! 👨‍💻
-- 📫 How to reach me: <a href="[#](https://t.me/wizard_c)"><img alt="OBS Studio" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat"></a> <a href="[#](https://discordapp.com/users/AlexanderWizard#0964)"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+- 📫 How to reach me: <a href="https://t.me/wizard_c"><img alt="OBS Studio" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat"></a> <a href="https://discordapp.com/users/AlexanderWizard#0964"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 
 
 <p><img width="35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
