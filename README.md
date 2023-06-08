@@ -34,5 +34,10 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yandex/yandex-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
+  <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/c2d27236-88bc-4a19-8a84-8182785da87c"></code>
+  <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/3f42dbc4-9167-48b9-b65e-106bcdaf5704"</code>
+ 
 <hr>
 </p>
