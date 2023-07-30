@@ -38,7 +38,5 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
   <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/c2d27236-88bc-4a19-8a84-8182785da87c"></code>
   <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/3f42dbc4-9167-48b9-b65e-106bcdaf5704"</code>
-  <code><img width="12%" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg"</code>
-
 <p/>
 https://github-emoji-picker.rickstaa.dev/
