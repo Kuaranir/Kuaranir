@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 ##
 <p><img width="32%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<img align="left" height="75px" width="75px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-:briefcase::night_with_stars:💻<h4>My tools and knowledges (at least in the process of studying that or  I ever used:slightly_smiling_face:) :</h4>
+<img align="left" height="95px" width="95px" alt="𝙶𝙸𝙵" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif"/>
+:briefcase::night_with_stars:💻<h4>My major tools and knowledges, that I use and learning:</h4>
 <!-- to draw horizontal line -->
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -34,10 +34,12 @@ You can click the Preview link to take a look at your changes.
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yandex/yandex-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
   <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/c2d27236-88bc-4a19-8a84-8182785da87c"></code>
   <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/3f42dbc4-9167-48b9-b65e-106bcdaf5704"</code>
 <p/>
+
+<code><img width="40%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/dojocat.jpg?raw=true"</code>
 https://github-emoji-picker.rickstaa.dev/
