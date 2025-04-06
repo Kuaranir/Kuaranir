@@ -32,13 +32,12 @@ You can click the Preview link to take a look at your changes.
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"></code>
+
   <br />
   <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
   <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/c2d27236-88bc-4a19-8a84-8182785da87c"></code>
   <code><img width="10%" src="https://github.com/Kuaranir/Kuaranir/assets/48598660/3f42dbc4-9167-48b9-b65e-106bcdaf5704"</code>
 
-<code><img width="40%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/dojocat.jpg?raw=true"</code>
-https://github-emoji-picker.rickstaa.dev/
